@@ -2,6 +2,7 @@
     <head></head>
     <body>
 <div class="header_info" style="border: solid 1px red;
+            border: solid 1px red;
             display: flex;
             flex-direction: column;
             align-items: center;">
