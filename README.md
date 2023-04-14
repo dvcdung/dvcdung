@@ -6,7 +6,7 @@
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
                 <td>
-                    <b>Name</b>: $\color{green}{John Vo}$ (Võ Chí Dũng) <br>
+                    <b>Name</b>: $\color{green}[John Vo]$ (Võ Chí Dũng) <br>
                     <b>Gender</b>: $\color{green}{Male}$
                 </td>
             </tr>
