@@ -1,12 +1,11 @@
 <div align="center">
-    <h1>VO CHI DUNG</h1>
+    <h1>JOHN VO'S PROFILE</h1>
         <table>
             <tr>
                 <td>
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
                 <td>
-                    <h4 align="center">John's Profile</h4>
                     <b>Name:</b> VÕ CHÍ DŨNG $\color{red}\text{(John Vo)}$<br>
                     <b>Nationality:</b> VIET NAM<br>
                     <b>Gender:</b> Male<br>
