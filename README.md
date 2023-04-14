@@ -8,7 +8,7 @@
                 <td>
                     Name: **Võ Chí Dũng** (John Vo) <br>
                     Gender: Male
-                    <font color='red'>test blue color font</font>
+                    This is red{: style="color: red"}.
                 </td>
             </tr>
         </table>
