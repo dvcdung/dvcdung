@@ -3,6 +3,10 @@
     <div align="left">
         <table>
             <tr>
+                <td align="center">-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-</td>
+                <td>-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o</td>
+            </tr>
+            <tr>
                 <td>
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
