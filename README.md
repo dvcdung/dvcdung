@@ -1,5 +1,5 @@
 <div align="center"">
-    <h1>VÕ CHÍ DŨNG - JOHN</h1><hr width="80%" />
+    <h1>VÕ CHÍ DŨNG - JOHN</h1>
     <img
         width="80%"
         style="padding: 10px;"
