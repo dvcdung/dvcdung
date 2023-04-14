@@ -6,8 +6,12 @@
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
                 <td>
-                    <b>Name</b>: $\color{green}\text{John Vo}$ (Võ Chí Dũng) <br>
-                    <b>Gender</b>: $\color{green}\text{Male}$
+                    <b>Name:</b> $\color{green}\text{VÕ CHÍ DŨNG}$ $\color{red}\text{JOHN VO}$<br>
+                    <b>Nationality:</b> $\color{green}\text{VIET NAM}$<br>
+                    <b>Gender:</b> $\color{green}\text{Male}$<br>
+                    <b>Email:</b> $\color{green}\text{dvcvochidung@gmail.com}$<br>
+                    <b>University:</b> $\color{green}\text{VIETNAM - KOREAN UNIVERSITY OF INFORMATION AND COMMUNICATION TECHNOLOGY}$<br>
+                    <!-- <b>Field of study</b>: $\color{green}\text{Male}$<br> -->
                 </td>
             </tr>
         </table>
