@@ -6,8 +6,8 @@
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
                 <td>
-                    <b>Name</b>: $${\color{red}Võ Chí Dũng (John Vo)}$$ <br>
-                    <b>Gender</b>: $${\color{red}Male}$$
+                    <b>Name</b>: $${Võ Chí Dũng (John Vo)}$$ <br>
+                    <b>Gender</b>: $${Male}$$
                 </td>
             </tr>
         </table>
