@@ -3,8 +3,8 @@
     <div align="left">
         <table>
             <tr>
-                <td align="center">-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-</td>
-                <td>-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-</td>
+                <td align="center">-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-</td>
+                <td>-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-</td>
             </tr>
             <tr>
                 <td>
