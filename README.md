@@ -6,7 +6,7 @@
                     <img src="https://avatars.githubusercontent.com/u/94359252?v=4" width="300"/>
                 </td>
                 <td>
-                    Name: <span style="color: red">Võ Chí Dũng</span> (John Vo) <br>
+                    Name: **Võ Chí Dũng** (John Vo) <br>
                     Gender: Male
                 </td>
             </tr>
