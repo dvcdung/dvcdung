@@ -1,3 +1,5 @@
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dvcdung&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
     <h1>JOHN VO'S PROFILE</h1>
         <table>
@@ -17,4 +19,3 @@
         </table>
     <img src="https://www.planetware.com/wpimages/2020/02/france-in-pictures-beautiful-places-to-photograph-eiffel-tower.jpg"/>
 </div>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dvcdung&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
